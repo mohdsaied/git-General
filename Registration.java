@@ -8,6 +8,4 @@ class Registration{
     public String registerUser() {
         return "Hello saied";
     }
-
-
 }
